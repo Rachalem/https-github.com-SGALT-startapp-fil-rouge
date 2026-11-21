@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # https-github.com-SGALT-startapp-fil-rouge
 
 =======
@@ -14,4 +12,3 @@
   index html # Structure principale de la page web#
   Style CSS # Mise en page, couleur, typographie#
   Java Scipt #Interaction et logique#
-  > > > > > > > 7f20f03 (mis à jour readme et ajout script.js)
