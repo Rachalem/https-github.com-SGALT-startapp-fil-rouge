@@ -1,7 +1,4 @@
 # https-github.com-SGALT-startapp-fil-rouge
-
-=======
-
 # Ce projet correspond à la première étape de ma formation développeur web, mon objectif est de prendre en main VS Code et d'initialiser la structure de base d'un projet Web de la startapp
 
 # objectifs de cette étape
